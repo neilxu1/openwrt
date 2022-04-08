@@ -11,7 +11,7 @@ FEATURES:=squashfs ext4 vdi vmdk vhdx pcmcia targz fpu boot-part rootfs-part
 SUBTARGETS:=generic legacy geode 64
 
 KERNEL_PATCHVER:=5.4
-KERNEL_TESTING_PATCHVER:=5.4
+KERNEL_TESTING_PATCHVER:=5.10
    
 
 
